@@ -1,0 +1,59 @@
+
+        .wiz{
+            position: absolute;
+            top: 100px;
+            right: 200px;
+            width: 200px;
+        }
+        .inputer { width: 100%;  padding: 10px 20px;
+            margin: 8px 0; box-sizing: border-box; border: none;
+            background-color: #3CBC8D;  color: white;
+        }
+
+        .interfeild{
+         background-color: gray;
+        }
+        .btton{
+          width: 100px;
+          border-radius: 10px;
+          float:right;
+          padding-right:2px;
+        }
+        .readonly{
+          width: 100%;  padding: 10px 20px;
+            margin: 8px 0; box-sizing: border-box; border: none;
+            background-color: gray;  color: white;
+        }
+
+        .wiz{
+          position: relative;
+          right:0px;
+          bottom:0;
+          width: 100%;
+          padding:10px;
+          height:490%;
+          
+      }
+      .wiz3{
+        height:100px;
+      }
+
+      .inputer { width: 100%;  padding: 10px 20px;
+          margin: 8px 0; box-sizing: border-box; border: none;
+          background-color: #3CBC8D;  color: white;
+      }
+
+      .interfeild{
+       background-color: gray;
+      }
+      .btton{
+        width: 100px;
+        border-radius: 10px;
+        float:right;
+        padding-right:2px;
+      }
+      .readonly{
+        width: 100%;  padding: 10px 20px;
+          margin: 8px 0; box-sizing: border-box; border: none;
+          background-color: gray;  color: white;
+      }

@@ -1,0 +1,24 @@
+kuku 1 = 12g
+kuku 10 = x
+
+kk1 x X = kk10 x 12g
+x = 120g 
+
+
+1kg = 1000g
+ x   = 120g
+
+1kg x 120 /1000
+
+
+ibg = 50kg
+x   = 120kg
+
+1bg x 120kg = X x 50kg
+
+ 120 / 50 = x
+
+
+ 1w = 7d
+ 6w = X
+ x = 7d x 6
